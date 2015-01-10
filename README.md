@@ -1,2 +1,2 @@
 # Material
-# Material disponíveis para alunos
+# Material disponível para alunos
